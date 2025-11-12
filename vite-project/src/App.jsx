@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div>
       <Header />
-      <main style={{ padding: '20px' }}>
+      <main>
         <h2>Catálogo</h2>
         {}
         <Produto nome="Camiseta Básica Preta" preco="49,90" />
